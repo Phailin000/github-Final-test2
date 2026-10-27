@@ -6,3 +6,8 @@ Final lab exam
 -Nickname: PLOY
 -Major: CS
 -Year: 1
+
+## My Learning Goals
+- Grade A
+- English get B2
+- Develop my computer skills
